@@ -1,18 +1,18 @@
 .p {
 background-color: pink;
-font-size:32px;
+font-family: Verdana, "DejaVu Sans", sans-serif
 
 }
 
 .p2 {
     
-    font-size:45px;
+    font-size:24px;
     
     }
 
 #two {
 
-    font-size:40px;
+    font-size:36px;
     color:blue;
 
 }
@@ -20,6 +20,6 @@ font-size:32px;
 #four {
     
     background-color: lime;
-    font-size:40px;
+    font-size:24px;
     font-weight:bold;
 }
