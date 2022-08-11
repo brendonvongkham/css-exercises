@@ -1,7 +1,19 @@
+/*This class is for the first element to change background color to black and font color to white*/
 .first {
 
 background-color: black;
 color:white;
 
 }
+/*This class is for the second element to change the background color to yellow*/
+.second {
 
+    background-color: yellow;
+}
+/*This class is for both elements to increase font size and change font type*/
+.both {
+
+    font-size:28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif
+
+}
