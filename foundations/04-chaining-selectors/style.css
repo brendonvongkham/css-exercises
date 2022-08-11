@@ -1,0 +1,12 @@
+/*First selector created for the first image*/
+.avatar.proportioned {
+width: 300px;
+height:auto;
+}
+/*Second selector created for the second image*/
+.avatar.distorted {
+
+width: 200px;
+height: 400px;
+
+}
